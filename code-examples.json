@@ -10,17 +10,5 @@
     "timestamp": "2024-12-08T15:42:27.232Z",
     "id": 1733672547232,
     "author": "mo-sato"
-  },
-  {
-    "title": "test",
-    "description": "test",
-    "html": "<div>\n<a class=\"test\">test</a>\n</div>",
-    "css": ".test {\n color:#0ff;\n}",
-    "js": "",
-    "tag": "button",
-    "commitMessage": "test",
-    "timestamp": "2024-12-08T15:42:28.523Z",
-    "id": 1733672548523,
-    "author": "mo-sato"
   }
 ]
