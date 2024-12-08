@@ -1,14 +1,1 @@
-[
-  {
-    "title": "test",
-    "description": "test",
-    "html": "<div>\n<a class=\"test\">test</a>\n</div>",
-    "css": ".test {\ncolor:#0fff;\n}",
-    "js": "",
-    "tag": "button",
-    "commitMessage": "test",
-    "timestamp": "2024-12-08T15:59:13.226Z",
-    "id": 1733673553226,
-    "author": "mo-sato"
-  }
-]
+[]
